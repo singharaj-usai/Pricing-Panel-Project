@@ -79,3 +79,8 @@ body {
 .pricing-plan:last-child {
     border-bottom: none;
 }
+
+.pricing-img {
+    margin-bottom: 25px;
+    max-width: 100%;
+}
