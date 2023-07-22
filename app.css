@@ -104,3 +104,7 @@ body {
     padding: 15px 0;
     border-top: 1px solid #e1f1ff;
 }
+
+.pricing-features-item:last-child {
+    border-bottom: 1px solid #e1f1ff;
+}
