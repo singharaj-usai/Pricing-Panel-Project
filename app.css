@@ -75,3 +75,7 @@ body {
 .pricing-plan {
     border-bottom: 1px solid #e1f1ff;
 }
+
+.pricing-plan:last-child {
+    border-bottom: none;
+}
